@@ -1,10 +1,5 @@
 # SQL-DRONE
-# 🛸 KAIROS Project — Drone Surveillance & Threat Detection Database
 
-> **Final Project | SQL Server Management Studio 22**
-> A relational database system designed for autonomous drone-based surveillance, real-time object detection, threat assessment, and mission management.
-
----
 
 ## 📌 Project Overview
 
